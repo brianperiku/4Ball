@@ -4,4 +4,4 @@ Main Screen:
 
 Gameplay:
 
-![](gameplay_gifs/MAINSCREEN.gif)
+![](gameplay_gifs/GAMEPLAY%20GIF.gif)
